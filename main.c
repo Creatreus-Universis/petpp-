@@ -2,6 +2,5 @@
 #include <stdio.h>
 
 int main (){
-	printf("E aí, cara?\n");
-	return 0;
+	printf("BATATASROXAS\n");
 }
